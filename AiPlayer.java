@@ -1,3 +1,6 @@
+30068971
+Minsu Kim
+
 package codes;
 
 public class AiPlayer extends Player{
